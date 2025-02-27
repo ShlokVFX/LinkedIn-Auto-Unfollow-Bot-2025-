@@ -1,1 +1,1 @@
-# Linkedin_Unfollow_bot
+LinkedIn Auto-Unfollow Bot (2025)
